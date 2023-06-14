@@ -1,0 +1,2 @@
+fastapi==0.97.0 # library for creating API REST with Python
+uvicorn==0.22.0 # library for running the API REST server
